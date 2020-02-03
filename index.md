@@ -1,12 +1,6 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NajibAbdul1967/NajibAbdul/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An ambitious final year Computer Science student predicted a First-Class result with a keen interest in web development. An effective communicator with excellent written and verbal communication skills. Extensive range of interests specifically front-end development using technologies such as AngularJS to design, code and maintain websites according to the specification given. Now seeking a challenging graduate front-end web development role.
 
 ```markdown
 Syntax highlighted code block
